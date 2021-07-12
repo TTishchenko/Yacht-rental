@@ -1,0 +1,38 @@
+section{
+	background-color: LightBlue;
+	padding: 30px;
+	height: auto;
+	color: white;
+}
+
+input, select{
+	font-size: 1rem;
+	height: 35px;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+section p{
+	font-size: 1.5rem;
+	text-align: left;
+}
+
+h1{
+	font-size: 2rem;
+}
+
+img{
+	margin: 0 20px 0 10vw;
+	float: left;
+	height: 13rem;
+	width: 23rem;
+}
+
+div.a{
+	margin: 40px 0 0 0;
+}
+
+#sub{
+	padding: 0;
+	height: 35px;
+}

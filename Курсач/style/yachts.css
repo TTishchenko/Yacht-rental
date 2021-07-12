@@ -1,0 +1,22 @@
+section{
+	padding: 20px 0;
+	height: auto;
+	background-color: LightBlue;
+}
+section p{
+	text-align: left;
+	font-size: 1.5rem;
+	margin-bottom: 0;
+}
+section img{
+	margin: 0 20px 0 10vw;
+	float: left;
+	height: 6rem;
+	width: 11rem;
+}
+
+.line{
+	height: 1px;
+	background-color: white;
+	margin: 20px 50px;
+}
